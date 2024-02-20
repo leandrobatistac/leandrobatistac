@@ -4,7 +4,7 @@
 
   <h3 align="center">MY GITHUB STATS</h1>
 <div align="center">
-  <img width="78%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroBatistaC&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroBatistaC&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
 
 
